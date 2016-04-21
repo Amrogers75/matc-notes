@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "What is your name? -> "
+read username
+echo "Hello, $NAME. Nice to meet you."
+if  [ "$usename" = "root" ]; then
+	echo "you ROCK?"
+	read you ROCK
+	if [ "$you ROCK" == "y" ] || [ "you ROCK" == "yes" ]; then
+	echo "You ROCK!"
+elif [ $username" = "somebody" ]; then
+	echo "you are not COOL"
+else
+	echo "Welcome $username"
+fi
