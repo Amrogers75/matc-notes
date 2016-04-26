@@ -1,0 +1,22 @@
+h4 {
+    color: red;
+    text-align: center;
+}
+
+.text-center {
+    color: darkcyan;
+}
+
+.col-sm-12{
+    text-align: center;
+    color: yellow;
+}
+
+.btn-dark {
+    color: aqua;
+    align-content: space-around;
+}
+
+.background {
+    background-color: black;
+}

@@ -2,116 +2,165 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>MATC Notes</title>
+    <link href="styleshhet1.css" rel="stylesheet">
+
     <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">js guide</a>
 </head>
+
 <body>
-<!-- js notes Friday 4-22-16 -->
-<section id="template" class="assignment">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <p>This was given for a template for a project down the road</p>
-                    <p>Possibly a source card for something</p>
-                    <p>I have a dog that plays all day</p>
+    <!-- js notes Friday 4-22-16 -->
+    <section id="template" class="assignment">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <p>This was given for a template for a project down the road</p>
+                        <p>Possibly a source card for something</p>
+                        <p>I have a dog that plays all day</p>
                         <div>
                             <p>Bacon ipsum dolor amet do strip steak fugiat pork loin ball tip cow duis tail ham. Dolore dolor duis minim do dolore. Shoulder pig proident ribeye tongue alcatra drumstick jerky pork loin. Filet mignon venison ipsum deserunt enim adipisicing landjaeger non in id salami duis. Picanha voluptate velit tri-tip shank consectetur dolore excepteur incididunt landjaeger flank alcatra t-bone qui. Swine chuck in labore turkey spare ribs shoulder. Ex frankfurter jowl, anim pariatur pancetta meatloaf ut elit leberkas.</p>
-
-                            <div>
-                                <p>Corned beef short ribs porchetta, bacon shank sirloin spare ribs turducken tail hamburger kevin beef leberkas. Picanha cow chuck, strip steak andouille sausage leberkas. Kevin leberkas tongue short loin brisket doner pork belly. Filet mignon rump pig, chuck salami meatball meatloaf ham hock drumstick short ribs jowl brisket. Ham jowl sausage strip steak biltong alcatra turducken beef cupim.</p>
-                                <P>it’s tasty!</P>
-                            </div>
+                            <p>Corned beef short ribs porchetta, bacon shank sirloin spare ribs turducken tail hamburger kevin beef leberkas. Picanha cow chuck, strip steak andouille sausage leberkas. Kevin leberkas tongue short loin brisket doner pork belly. Filet mignon rump pig, chuck salami meatball meatloaf ham hock drumstick short ribs jowl brisket. Ham jowl sausage strip steak biltong alcatra turducken beef cupim.</p>
+                            <P>it’s tasty!</P>
                         </div>
+                    </div>
+                </div>
+            </div>
+
+        <script>
+            console.log("My dog is Sherlock's friend");
+            <!-- document.write("His name is Watson").innerHTML; -->
+            document.getElementById("template");
+            alert("Hey look at this!!!!");
+        </script>
+    </section>
+
+    <!-- Monday notes 4-25-16 -->
+    <section id="variables" class="definition">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                   <!-- <Script>
+                            /* Variables
+                        *var x = 5;
+                        *var y = 'text'; //can hold numbers, strings, booleans, functions
+                        *var price = 100; //can be initialized
+                        *var price; //or not
+                        *var price1; //Always put spaces around operators ( = + - * / ), and after commas
+                        *var Price;
+                        *var price camelCase; //for identifier names (variables and functions)
+                        */
+
+                            /*Expressions
+                        //var gross = 5000;
+                        //var taxes = 4900;
+                        //var pigs = gross - taxes;
+                        //var fred = 'Fred';
+                        //var bob = 'Bob';
+                        //var goodFood = fred + 'vs' + bob;
+                        //var quiz = fred + pigs;
+                        */
+
+                            //in class exercise
+                        //the circumference of a circle=2¶r parameter of a square=4w, and triangle=a+b+c.
+
+                        //circle
+                        var radius = 100; // user input
+                        var pi = Math.PI; //3.14
+
+                        var circumference = 2 * pi * radius;
+
+                        //triangle
+                        var side1 =45; //user input
+                        var side2 =55; //user input
+                        var side3 =55; //user input
+
+                        var parameterTriangle = side1 + side2  + side3;
+
+                        //square
+
+                        var length = 65;
+                        perimiterSquare = length * 4;
+
+
+                        //give the mass and weight=mass*acceleration of a person on Earth is acceleration=9.8, the Moon is acceleration=1.622, and Jupiter is acceleration=24.79.
+                        var mass = 75; //user input
+                        var planet = 'earth';
+                        var bigRock = 'moon';
+
+                        //bigRock.toLocaleLowerCase();
+
+                        //earth
+                        var gravityOnEarth = 9.8;
+
+                        //moon
+                        var gravityOnMoon = 1.622;
+
+                        //jupiter
+                        var gravityOnJupiter = 24.79;
+
+                        var result;
+                            if (bigRock === 'earth') {
+                                result = gravityOnEarth * mass;
+                            }
+                            else if (bigRock === 'moon') {
+                                result = gravityOnMoon * mass;
+                            }
+                            else {
+                                result = gravityOnJupiter * mass;
+                            }
+                    </Script> -->
                 </div>
             </div>
         </div>
-    <script>
-        console.log("My dog is Sherlock's friend");
-        <!-- document.write("His name is Watson").innerHTML; -->
-        document.getElementById("template");
-        alert("Hey look at this!!!!");
-    </script>
-</section>
+    </section>
 
-<!-- js notes Monday 4-25-16 -->
-<section id="objectives" class="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <Script>
-                        /* Variables
-                    *var x = 5;
-                    *var y = 'text'; //can hold numbers, strings, booleans, functions
-                    *var price = 100; //can be initialized
-                    *var price; //or not
-                    *var price1; //Always put spaces around operators ( = + - * / ), and after commas
-                    *var Price;
-                    *var price camelCase; //for identifier names (variables and functions)
-                    */
+    <!-- Tuesday notes 4-26-16 -->
+    <section id="objectives" class="about">
+        <a href="game.html" class="btn btn-dark btn-lg">GAME</a><br>
+        <h4>Add to or Take cash</h4>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div onclick="javascript: addten()"> click to add 10</div>
+                    <div onclick="javascript: takefive()"> click to take 5</div>
+                    <div id="myNumber">650</div>
 
-                        /*Expressions
-                    //var gross = 5000;
-                    //var taxes = 4900;
-                    //var pigs = gross - taxes;
-                    //var fred = 'Fred';
-                    //var bob = 'Bob';
-                    //var goodFood = fred + 'vs' + bob;
-                    //var quiz = fred + pigs;
-                    */
+                    <script>
+                        var myBool=true;
+                        var myString=(400+56);
+                        console.log(String(myBool));
 
-                        //in class exercise
-                    //the circumference of a circle=2¶r parameter of a square=4w, and triangle=a+b+c.
-
-                    //circle
-                    var radius = 100; // user input
-                    var pi = Math.PI; //3.14
-
-                    var circumference = 2 * pi * radius;
-
-                    //triangle
-                    var side1 =45; //user input
-                    var side2 =55; //user input
-                    var side3 =55; //user input
-
-                    var parameterTriangle = side1 + side2  + side3;
-
-                    //square
-
-                    var length = 65;
-                    perimiterSquare = length * 4;
-
-
-                    //give the mass and weight=mass*acceleration of a person on Earth is acceleration=9.8, the Moon is acceleration=1.622, and Jupiter is acceleration=24.79.
-                    var mass = 75; //user input
-                    var planet = 'earth';
-                    var bigRock = 'moon';
-
-                    //bigRock.toLocaleLowerCase();
-
-                    //earth
-                    var gravityOnEarth = 9.8;
-
-                    //moon
-                    var gravityOnMoon = 1.622;
-
-                    //jupiter
-                    var gravityOnJupiter = 24.79;
-
-                    var result;
-                        if (bigRock === 'earth') {
-                            result = gravityOnEarth * mass;
+                        <!-- bank account page 4 different type casting/conversion -->
+                        function addten() {
+                            var acctnum = document.getElementById("myNumber").innerHTML;
+                            var myResult = Number(acctnum) + 10;
+                            document.getElementById("myNumber").innerHTML = myResult;
                         }
-                        else if (bigRock === 'moon') {
-                            result = gravityOnMoon * mass;
+
+                        function  takefive(){
+                            var acctnum = document.getElementById("myNumber").innerHTML;
+                            var myResult = Number(acctnum) - 5;
+                            document.getElementById("myNumber").innerHTML = myResult;
                         }
-                        else {
-                            result = gravityOnJupiter * mass;
-                        }
-                </Script>
+
+                    </script>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- -->
+    </section>
+
+
+<!-- Wednesday notes 4-27-16 -->
+    <section></section>
+
+
+<!-- Thursday notes 4-28-16 -->
+    <section></section>
+
+<!-- Friday notes 4-29-16 -->
+    <section></section>
+
+
 </body>
+
 </html>
