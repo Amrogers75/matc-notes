@@ -6,9 +6,10 @@
     <link href="styleshhet1.css" rel="stylesheet">
 
     <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">js guide</a>
+
 </head>
 
-<body>
+<body onload=anthony('green','sixfoot');>
     <!-- js notes Friday 4-22-16 -->
     <section id="template" class="assignment">
             <div class="container">
@@ -123,7 +124,7 @@
                 <div class="col-sm-12 text-center">
                     <div onclick="javascript: addten()"> click to add 10</div>
                     <div onclick="javascript: takefive()"> click to take 5</div>
-                    <div id="myNumber">650</div>
+                    <div id="myNumber"> 789</div>
 
                     <script>
                         var myBool=true;
@@ -151,11 +152,93 @@
 
 
 <!-- Wednesday notes 4-27-16 -->
-    <section></section>
+    <!-- arrays are objects (storage boxes) for items to be called by functions,  -->
+    <!-- var array-name=[item1, item2, item3 .....]; -->
+    <!-- var fish =['ray', 'trout', 'gold-fish' .....]; -->
+        <!-- Accessing an element using the index number of the element -->
+    <!-- var animals = fish[0]; -->
+    <!-- var anotherAnimal = fish[2]; -->
+    <!-- fish[3] = 'betray'; -->
 
+    <section>
+        <div class="conainer">
+            <div class="row">
+                <div class="col-med-5">
+                    <h3>Matrix Calculator</h3>
+                    <!--<script>
+
+                        function matrixmultiply (matrix1, matrix2) {
+                        //result matrix
+                        var resultmatrix = [[],[]];
+
+                        /*var row1 = [];
+                          var row2 = [];
+                          var resultmatrix = [row1, row2];*/
+
+                        //multiply matrix
+                        resultmatrix[0][0] = (matrix1[0][0] * matrix2[0][0]) + (matrix1[0][1] * matrix2[1][0]);
+                        resultmatrix[0][1] = (matrix1[0][0] * matrix2[0][1]) + (matrix1[0][1] * matrix2[1][1]);
+                        resultmatrix[1][0] = (matrix1[1][0] * matrix2[0][0]) + (matrix1[1][1] * matrix2[1][0]);
+                        resultmatrix[1][1] = (matrix1[1][0] * matrix2[0][1]) + (matrix1[1][1] * matrix2[1][1]);
+
+                        return resultmatrix;
+
+                            var matrix1=
+                            var matrix2=
+
+
+                        /*matrix schema
+                        var row1 = [l, 0, 1];
+                        var row2 = [1, 1, 1];
+                        var row3 = [1, 0, 1];
+
+                        var matrix = [row1, row2, row3];
+
+                        matrix[2];
+                        matrix[2][1];
+                        matrix[0][0];*/
+                        }
+                    </script> -->
+                </div>
+            </div>
+        </div>
+    </section>
 
 <!-- Thursday notes 4-28-16 -->
-    <section></section>
+<!-- http://uxcobra.com/js/monstergamecode.php -->
+<!-- for loops -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-med-6">
+                    <!-- functions name(parameter1, parameter2, ....) { code gos here } -->
+                    <!-- http://uxcobra.com/js/monstergamecode.php "figure out how to make it work"-->
+                    <script>
+                        function anthony(eyecolor, hight) {
+                            console.log("Hello anthony, your eye color is " + eyecolor + ' and are you ' + hight);
+                        }
+                    </script>
+
+                    <!-- closures -->
+
+                    <!--<script>
+                    var addItem=(function() {
+                        var cartitems=0;
+                        return function(){return cartItems += 1;}
+                    })();
+
+                    addItem();
+                    addItem();
+                    addItem();
+                    addItem();
+                    addItem();
+
+                    consol.log(addItem);
+                    </script>-->
+                </div>
+            </div>
+        </div>
+    </section>
 
 <!-- Friday notes 4-29-16 -->
     <section></section>

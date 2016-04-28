@@ -1,4 +1,4 @@
-h4 {
+h4, h3 {
     color: red;
     text-align: center;
 }
@@ -9,14 +9,25 @@ h4 {
 
 .col-sm-12{
     text-align: center;
-    color: yellow;
+    color: deeppink;
 }
 
-.btn-dark {
-    color: aqua;
+a {
+    color: #556b2f;
+    text-align: center;
+    justify-content: center;
     align-content: space-around;
+    padding-left: 600px;
+    padding-right: 600px;
 }
 
 .background {
     background-color: black;
+    align-content: space-around;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+h3 {
+    color: orangered;
+    text-align: center;
 }
