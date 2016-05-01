@@ -288,18 +288,11 @@
                             <!-- write a function fact() that takes an integer n and returns a factorial of n -->
                             <!-- example n=7 7*6*5*4*3*2*1 = 5040 -->
                             <script>
-                                function takehome(y){
-
-                                    if (y <= 2){
-                                        return 3*2*2;
-                                    }
-
-                                    else if (y <= 5 ){
-                                        return 2*4;
-                                    }
-
-                                    else{
-                                        return takehome(y - 1);
+                                function rFact(num) {
+                                    if (num === 0)
+                                    {return 1;}
+                                    else {
+                                        return num * rFact(num - 1);
                                     }
                                 }
                             </script>
