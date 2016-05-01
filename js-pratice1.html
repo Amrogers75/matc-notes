@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MATC Notes</title>
+    <title>Notes 4-22-16 to 4-29-16</title>
     <link href="styleshhet1.css" rel="stylesheet">
 
-    <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">js guide</a>
+    <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">jsguide</a>
 
 </head>
 
@@ -117,8 +117,9 @@
 
     <!-- Tuesday notes 4-26-16 -->
     <section id="objectives" class="about">
+        <h3>Boolens, </h3>
         <a href="game.html" class="btn btn-dark btn-lg">GAME</a><br>
-        <h4>Add to or Take cash</h4>
+        <h4>Add to or Take cash 4-26-16</h4>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
@@ -164,7 +165,7 @@
         <div class="conainer">
             <div class="row">
                 <div class="col-med-5">
-                    <h3>Matrix Calculator</h3>
+                    <h3>Matrix Calculator 4-27-16</h3>
                     <!--<script>
 
                         function matrixmultiply (matrix1, matrix2) {
@@ -182,10 +183,6 @@
                         resultmatrix[1][1] = (matrix1[1][0] * matrix2[0][1]) + (matrix1[1][1] * matrix2[1][1]);
 
                         return resultmatrix;
-
-                            var matrix1=
-                            var matrix2=
-
 
                         /*matrix schema
                         var row1 = [l, 0, 1];
@@ -213,6 +210,8 @@
                 <div class="col-med-6">
                     <!-- functions name(parameter1, parameter2, ....) { code gos here } -->
                     <!-- http://uxcobra.com/js/monstergamecode.php "figure out how to make it work"-->
+                    <h3>Functions, Closures, Array's 4-28-16</h3>
+                    <a href="monster-game.html" class="btn btn-dark btn-lg">Monster</a>
                     <script>
                         function anthony(eyecolor, hight) {
                             console.log("Hello anthony, your eye color is " + eyecolor + ' and are you ' + hight);
@@ -221,7 +220,7 @@
 
                     <!-- closures -->
 
-                    <!--<script>
+                    <script>
                     var addItem=(function() {
                         var cartitems=0;
                         return function(){return cartItems += 1;}
@@ -234,16 +233,84 @@
                     addItem();
 
                     consol.log(addItem);
-                    </script>-->
+                    </script>
                 </div>
             </div>
         </div>
     </section>
 
 <!-- Friday notes 4-29-16 -->
-    <section></section>
+    <!-- functions -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-med-6">
+                    <h3> Functions, Iterators, Recursions 4-29-16</h3>
+                    <h6>there are examples that work in developers tool, console</h6>
+                    <p id="myId" style="color: cornflowerblue";>My wife likes blue, my daughter likes...</p>
+                    <script>
+
+                        //declare function to modify text
+                        function colorChange(id, color) {
+                            //check to make sure color and id are strings
+                            document.getElementById(id).style.color = color;
+                        }
+
+                           function execute() {
+                                colorChange('myId', 'purple');
+                            }
+
+                        //call function
+                        colorChange("myId", "#295BC1");
+                        window.setTimeout(execute, 4000);
+                    </script>
+                        <div class="fib">
+                        <h4>Recursions/Fibonacci 4-29-16</h4>
+                        <!-- recursion keeps functions short and sweet -->
+                        <script>
+                            // n==NaN return NaN, n == 1 return 0, n == 2 return 1, n == 3 return 1, n == 4 return 2,
+                            // n=<1 return 0, if n=<3 return 1, return fib(n-2) + fib(n-1),
+                            function fib(n){
+                                if (n <= 1){
+                                    return 0;
+                                }
+                                else if (n <= 2){
+                                    return 1;
+                                }
+                                else {
+                                    return fib(n - 2) + fib(n - 1);
+                                }
+                            }
+                        </script>
+                        </div>
+                        <div class="takehome">
+                            <!-- take home -->
+                            <!-- write a function fact() that takes an integer n and returns a factorial of n -->
+                            <!-- example n=7 7*6*5*4*3*2*1 = 5040 -->
+                            <script>
+                                function takehome(y){
+
+                                    if (y <= 2){
+                                        return 3*2*2;
+                                    }
+
+                                    else if (y <= 5 ){
+                                        return 2*4;
+                                    }
+
+                                    else{
+                                        return takehome(y - 1);
+                                    }
+                                }
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
 
 
-</body>
+    </body>
 
-</html>
+    </html>

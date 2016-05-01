@@ -1,4 +1,4 @@
-h4, h3 {
+h4 {
     color: red;
     text-align: center;
 }
@@ -28,6 +28,10 @@ a {
     padding-right: 50px;
 }
 h3 {
-    color: orangered;
+    color: orange;
+    text-align: center;
+}
+h6 {
+    color: darkslateblue;
     text-align: center;
 }
