@@ -4,21 +4,100 @@
     <meta charset="UTF-8">
     <title>Notes 5-4-16 to 5-8-16</title>
     <link href="styleshhet1.css" rel="stylesheet">
-
+    <style></style>
 </head>
-    <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">js guide</a>
-<body>
+    <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">jsguide</a>
+<body class="background">
 
 <!-- notes 5-4-16 -->
-<section></section>
+<section>
+    <h3>Notes 5-4-16</h3>
+    <h4>dot object use </h4>
+    <script>
+        var truck={make:"ford", model:"raptor", package:"STX", color:"bright blue", seats:"six"};
+    </script>
+    <a href="card.html" class="btn btn-dark btn-lg">Card</a>
+</section>
+
 <!-- notes 5-5-16 -->
-<section></section>
+<section>
+    <h3>Notes 5-5-16</h3>
+    <h4>object oriented programing, Classes/Prototype: a blueprint of an object, and Objects: are the things the blueprint makes </h4>
+    <p>Inheritance: in code is to keep redundancies out. </p>
+    <p>Examples: Shape, Pets, Living Space.</p>
+    <ul>function car (make, model, year) { <br>
+    this.make: make,<br>
+    this.model: model,<br>
+    this.year: year,<br>
+    this.start: function(key){},<br>
+    this.go: function(speed) {},<br>
+    }</ul>
+    <p></p>
+    <h4>Bank Profile</h4>
+    <!-- Needs a prototype inheritance, Needs at least two accounts, Needs to add one method to each account -->
+    <!-- take home 1: have it display in HTML 2: have it display 2 types of profiles -->
+    <h5>Runs in Console</h5>
+    <script>
+        function Profile(name, savings, checking){
+            this.name = name;
+            this.savings = savings;
+            this.checking = checking;
+
+            this.transfer = function (accountTo, accountFrom, amount) {};
+        }
+
+        var Account = function (balance, accountNumber) {
+            this.balance = balance;
+            this.accountNumber = accountNumber;
+
+            this.withDraw = function(amount){ };
+            this.deposit = function(amount){ };
+        }
+
+        function SavingsAccount(interestRate){
+            this.interestRate = interestRate;
+        }
+
+        function CheckingAccount(numberOfChecks){
+            this.numberOfChecks = numberOfChecks;
+        }
+
+        function createProfile(name, checkingBalance, savingBalance, interestRate, numberOfChecks){
+
+            CheckingAccount.prototype = Object.create(Account.prototype);
+            SavingsAccount.prototype = Object.create(Account.prototype);
+
+            var CheckingAccount = new CheckingAccount(numberOfChecks);
+            checkingAccount.balance = checkingBalance;
+            checkingAccount.accountNumber = 8888
+
+            var SavingsAccount = new SavingsAccount(interestRate);
+            SavingsAccount.balance = savingBalance;
+            SavingsAccount.accountNumber = 888
+
+
+            var profile = new Profile(name, savingsAccount, checkingAccount);
+
+            return profile;
+        }
+
+    </script>
+</section>
+
 <!-- notes 5-6-16 -->
-<section></section>
+<section>
+    <h3>Notes 5-6-16</h3>
+</section>
+
 <!-- notes 5-7-16 -->
-<section></section>
+<section>
+    <h3> Notes 5-7-16 </h3>
+</section>
+
 <!-- notes 5-8-16 -->
-<section></section>
+<section>
+    <h3> Notes 5-8-16 </h3>
+</section>
 
 </body>
 </html>

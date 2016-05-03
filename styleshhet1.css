@@ -13,12 +13,14 @@ h4 {
 }
 
 a {
-    color: #556b2f;
+    color: deepskyblue;
     text-align: center;
     justify-content: center;
     align-content: space-around;
-    padding-left: 600px;
-    padding-right: 600px;
+    padding-left: 575px;
+    padding-right: 550px;
+
+
 }
 
 .background {
@@ -34,4 +36,19 @@ h3 {
 h6 {
     color: darkslateblue;
     text-align: center;
+}
+
+p {
+    text-align: center;
+    color: deeppink;
+}
+
+ul {
+    color: whitesmoke;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: darkgreen;
 }
