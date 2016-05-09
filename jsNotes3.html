@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Notes 5-4-16 to 5-8-16</title>
     <link href="styleshhet1.css" rel="stylesheet">
-    <style></style>
+
 </head>
     <a href="reference/javascript_reference.pdf" class="btn btn-dark btn-lg">jsguide</a>
 <body class="background">
@@ -12,7 +12,7 @@
 <!-- notes 5-4-16 -->
 <section>
     <h3>Notes 5-4-16</h3>
-    <h4>dot object use </h4>
+    <h4>dot object use</h4>
     <script>
         var truck={make:"ford", model:"raptor", package:"STX", color:"bright blue", seats:"six"};
     </script>
@@ -52,7 +52,7 @@
 
             this.withDraw = function(amount){ };
             this.deposit = function(amount){ };
-        }
+        };
 
         function SavingsAccount(interestRate){
             this.interestRate = interestRate;
@@ -69,11 +69,11 @@
 
             var CheckingAccount = new CheckingAccount(numberOfChecks);
             checkingAccount.balance = checkingBalance;
-            checkingAccount.accountNumber = 8888
+            checkingAccount.accountNumber = 8888;
 
             var SavingsAccount = new SavingsAccount(interestRate);
             SavingsAccount.balance = savingBalance;
-            SavingsAccount.accountNumber = 888
+            SavingsAccount.accountNumber = 888;
 
 
             var profile = new Profile(name, savingsAccount, checkingAccount);
@@ -87,16 +87,135 @@
 <!-- notes 5-6-16 -->
 <section>
     <h3>Notes 5-6-16</h3>
+    <h4> Interaction Basics </h4>
+    <p></p>
+
+    <div id="candy"></div>
+    <div id="isGood" onclick="bug(this.id)">BUG</div>
+    <div onclick="myCandy.eatJunk">Eat It</div>
+
+    <script>
+        function runPage(){
+            document.getElementById("candy").innerHTML = "<a href='#'>push me</a>";
+        }
+
+        function bug(incomingid){
+            document.getElementById(incomingid).innerHTML="Squish Bug"
+        }
+
+        var Candy = function(){
+            this.eatJunk = function() {
+                console.log("Junk Gone");
+
+            }
+        }
+        var myCandy = new Candy();
+    </script>
+    <a href="card.html" class="btn btn-dark btn-lg">Card</a>
 </section>
 
 <!-- notes 5-7-16 -->
 <section>
     <h3> Notes 5-7-16 </h3>
+    <h4>For Loops</h4>
+    <p>1 to initiate the variable used in the loop (i = 0). How ever this is not always tru, JS doesn't care. 1 is optional. You can initiate many values in statement 1 (separated by comma):.</p>
+    <p>2 is used to evaluate the condition of the initial variable. How ever this is not true, JS doesn't care. 2 is also optional. If statement 2 returns true, the loop will start over again, if it returns false, the loop will end.</p>
+    <p>3 increases the initial variable. How ever this his is not true, JS doesn't care, statement 3 is optional. 3 can do anything like negative increment (i--), positive increment (i = i + 15), or anything else. 3 can also be omitted (like when you increment your values inside the loop):.</p>
+
+    <h4>For/in loops</h4>
+    <p>The JS for/in loops through the properties of an object:.</p>
+
+    <h4>For each loops</h4>
+    <p></p>
+
+    <h4>While loops</h4>
+    <p>The while loop loops through a block of code as long as a specified condition is true.</p>
+
+    <h4>Do/While loops</h4>
+    <p>The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.</p>
+
+    <script>
+        // For loops
+        /*for (var i = 0; i < 10; i++){
+            console.log(i);
+        }*/
+        // Example
+        var array = [1,2,3,4,5,6,7,8,9,10];
+        var listOfNumbers = [1,2,3,4,5,6,7,8,9,10];
+
+        /*for (var i = 0; i < 10; i++){
+            console.log('index:' + i + 'content:' + array[i]);
+        }
+
+        for (var index = 0; index < listOfNumbers.length; index++){
+            console.log(listOfNumbers[index]);
+        }
+
+        for (var index = 0; index < listOfNumbers.length; index+2){
+            listOfNumbers[index] = "myStuff" + index;
+        }
+
+        for (var index = 0; index < listOfNumbers.length; index++){
+            console.log(listOfNumbers[index]);
+        }
+
+        for (var index = listOfNumbers.length -1; index >=0; --index) {
+            console.log('--index:' + listOfNumbers[index]);
+        }*/
+
+        // For/in loops
+       /*var listOfNumbers = [1,2,3,4,5,6,7,8,9,10];
+        for (var num in listOfNumbers){
+            console.log(num)
+        }*/
+
+        /*var car={
+            engine:{
+                belt: 'gatorback4003',
+                sparkPlugs: ['gnk5889', 'gnk5889', 'gnk5889', 'gnk5889']
+            },
+            wheel:{
+                horn: 'loud'
+            }
+        };
+        for (var part in car){
+            console.log(part);
+            console.log(car[part]);
+
+                for (var component in car[part]) {
+                    console.log(component);
+                    console.log(car[part][component]);
+                }
+
+        }*/
+
+        // For each loops
+        listOfNumbers.forEach(function (value, index, object) {
+           console.log('value:' + value);
+           console.log('index:' + index);
+           console.log('object:' + object);
+        });
+
+        // While loops
+
+        // Do while loops
+
+
+
+
+    </script>
 </section>
 
 <!-- notes 5-8-16 -->
 <section>
     <h3> Notes 5-8-16 </h3>
+    <h4> Switch Statements </h4>
+    <p></p>
+    <p></p>
+    <script>
+        // Examples
+    </script>
+    <a href="calender.html" class="btn btn-dark btn-lg">Calendar</a>
 </section>
 
 </body>
