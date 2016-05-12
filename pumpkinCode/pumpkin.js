@@ -16,10 +16,9 @@ function addPumpkin(event) {
 	var randomPumpkin = Math.floor((Math.random() * 4) + 1);
 	pumpkinpatch += "<div class='pumpkin" + randomPumpkin + "' style='left: " + x + "px; top:" + y + "px;'></div>";
 	document.getElementById("container").innerHTML = pumpkinpatch;
-
-	//numpumpkins += "<div class='pumpkin" + randomPumpkin + "' style='left: " + x + "px; top:" + y + "px;'></div>";
-	//document.getElementById("container").innerHTML = numpumpkins, [++i];
-
+	numpumpkins++;
+	document.getElementById("numbertitle").innerHTML = numpumpkins;
+	
 	// xAdjust = 360;
 	// var yAdjust = 8;
 }
