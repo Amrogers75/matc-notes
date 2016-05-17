@@ -44,9 +44,25 @@
 <script></script>
 
 <!-- 05/13/16 Friday -->
-<h3></h3>
-<h4></h4>
-<script></script>
+<h3>Mario</h3>
+<h4>challenge</h4>
+<button onclick="timeDate1()">Bites</button>
+<div id="timeDate"></div>
+<script>
+    var now = new Date();
+    var hour = now.getHours();
+    var minute = now.getMinutes();
+    var second = now.getSeconds();
+    hour=hour%24;
+    // hour=(hour*Math.PI/6)+
+            //(minute*Math.PI/(6*60))+
+            //(second*Math.PI/(360*60));
+    function timeDate1() {
+        var time = [now, hour, minute, second];
+
+        document.getElementById(timeDate).innerHTML= "time";
+    }
+</script>
 <script src="notes4.js"></script>
 </body>
 </html>

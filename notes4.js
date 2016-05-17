@@ -37,7 +37,7 @@ var thisCallBack = function (thisArray){
                 reject('something broke');
             }
             resolve(thisPromiseCount);
-            resove(['pig', 'bird', 'Lizard', 'goat'])
+            resolve(['pig', 'bird', 'Lizard', 'goat'])
         }, Math.random() * 3000 + 2000);
 }
 var onSuccess = function(data){
@@ -65,3 +65,6 @@ var onAnyError = function (firstError){
     console.log(firstError.message);
 };
 promise.all(promise, promise1).then();*/
+
+// May 13, 2016 Challenge
+
