@@ -35,7 +35,7 @@ Truck.prototype.constructor = Truck;
 var myTruck= new Truck('8Cylinder', 'brightBlue', '6', '6\'',true);
 //alert(myTruck.toString());
 
-
+// notes for 5-19-16
 function validateForm() {
     var MIN_LENGTH = 1;
     //var x = document.forms["myForm"]["fname"].value;
@@ -55,3 +55,14 @@ function validateForm() {
         document.getElementById("messageBox").innerHTML = error;
     }
 }
+
+// notes 5-20-16
+// timer
+
+var myVar = setInterval(myTimer, 1000);
+
+function myTimer() {
+    var d = new Date();
+    document.getElementById("demo").innerHTML = d.toLocaleTimeString();
+}
+
