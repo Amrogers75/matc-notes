@@ -57,8 +57,7 @@ function validateForm() {
 }
 
 // notes 5-20-16
-// timer
-
+// time
 var myVar = setInterval(myTimer, 1000);
 
 function myTimer() {
