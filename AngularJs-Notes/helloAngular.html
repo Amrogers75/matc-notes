@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular 7-5-16</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+</head>
+<body ng-app >
+<div ng-init="msg='Good Morning Angular!'">
+    <span>{{ ::msg }}</span><br>
+    <br>
+    <span ng-bind="msg"></span><br>
+    <br>
+    <span ng-bind="::msg"></span><br>
+    <br>
+    <input type="text" data-ng-model="msg" /><br>
+    <br>
+    <input type="text" ng-model="word" /><br>
+    <br>
+    <input type="text" ng-model="word" />
+</div>
+    <span ng-bind="word"></span>
+
+</body>
+</html>

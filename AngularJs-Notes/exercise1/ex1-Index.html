@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Controller Ex</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script>
+        angular.module('app', [])
+                .controller('exControl', function (/*$scope*/) {
+                    var vm=this;
+                    vm.input = 4;
+                    vm.double= function(){
+                        vm.result=vm.input *2;
+//                        return vm.input *2;
+                    };
+
+                   /* $scope.input = 4;
+                    $scope.double = function(){
+                        return $scope.input *2;
+                    }*/
+                });
+    </script>
+</head>
+
+<!--<body ng-app="app" ng-controller="exControl">-->
+<body ng-app="app" ng-controller="exControl as bob">
+
+    <!--<input type="number" ng-model="input"/><br>-->
+    <input type="number" ng-model="bob.input"/>
+    <!--<span>The double of {{ input }} is {{ double() }}.</span>-->
+    <button ng-click="bob.double()">calculate</button><br><br>
+    <!--<span>The double of {{ bob.input }} is {{ bob.double() }}.</span>-->
+    <span>The double of {{ bob.input }} is {{ bob.result }}.</span>
+
+</body>
+</html>

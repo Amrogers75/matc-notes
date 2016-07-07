@@ -1,0 +1,21 @@
+{
+  "name": "proj",
+  "version": "0.0.1",
+  "description": "scripts",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "stuff"
+  ],
+  "author": "AR",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "tsify": "^0.16.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
