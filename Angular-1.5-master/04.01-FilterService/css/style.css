@@ -2,9 +2,24 @@
 body {
     font-family: Arial, SansSerif;
 }
+
 h1 {
     border: 1px solid black;
     border-radius: 10px;
     background-color: deepskyblue;
     padding: .3em;
+}
+
+h2 {
+    border: 1px solid Red;
+    border-radius: 10px;
+    background-color: seagreen;
+    padding: .3em;
+}
+
+h3 {
+    border: 3px solid purple;
+    border-radius: 15px;
+    background-color: lightpink;
+    padding: .4em;
 }
