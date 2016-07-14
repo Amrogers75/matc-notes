@@ -9,10 +9,16 @@
     function myExampleController() {
         // put all code for this component in here (click handlers, component setup, UI-related code)
         var self = this;
+        self.sort  = 'name';
+        self.orderList = orderList;
         self.getWeightInPounds = getWeightInPounds;
 
         function getWeightInPounds(character) {
             return character.mass * 2.20462;
+        }
+        
+        function orderList(sort){
+            self.sort = sort;
         }
 
         // sample data from swapi.co

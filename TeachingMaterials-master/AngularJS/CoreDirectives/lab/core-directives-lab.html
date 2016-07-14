@@ -10,12 +10,15 @@
 <body ng-app>
     <div class="container">
         <h1>Dr. Gonzalez Patient Information Form</h1>
-        <form ng-submit="">
-            <div class="form-group">
+        <input ng-submit="">
+        <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" class="form-control" id="name" placeholder="Name" ng-model="vm.form.name">
             </div>
-            <div class="form-group">
+            Check If This Is Not your Legal Name?
+            <input type="checkbox" ng-model="showlegalName"/>
+
+            <div class="form-group" ng-show="showlegalName">
                 <label for="legalName">Legal Name</label>
                 <input type="text" class="form-control" id="legalName" placeholder="Legal Name" ng-model="vm.form.legalName">
             </div>
@@ -61,3 +64,13 @@
     </div>
 </body>
 </html>
+
+<!-- Lab Time!
+The lab is at TeachingMaterials/AngularJS/CoreDirectives/lab Dr. Gonzalez has a static web form but would like to make it dynamic. He’s hired you to do the work. Here is what he wants:
+
+Display the legal name fields only when their legal name is not already in the first name fields (hint: ask
+a question with options yes or no).
+
+Display the “Who should pay the full amount when I have no insurance?” message only when they say they don’t have health insurance coverage. Also, highlight the question in red. If they have insurance coverage, display the fields to collect their insurance info.
+
+Change the input number field for the pain scale into a select box. He wants you to use ngOptions so he can learn how it’s done.-->
