@@ -5,7 +5,8 @@
             templateUrl: "characters/char-detail.component.html",
             controller: charDetailController,
             bindings: {
-                character: '<'
+                character: '<',
+                onClose:'&'
             }
         });
 
@@ -14,8 +15,11 @@
         self.close = close;
 
         function close() {
-            self.character = undefined;
+            //self.character = undefined;
+            self.onClose();
         }
+        //.component();
+        //bindings:{ character: '<', onClose:'&'}
     }
 
 })();

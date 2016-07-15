@@ -25,6 +25,7 @@
         self.getWeightInPounds = getWeightInPounds;
         self.sort = sort;
         self.selectChar = selectChar;
+        self.close = close;
 
         function getWeightInPounds(character) {
             return character.mass * 2.20462;
@@ -42,6 +43,10 @@
 
         function selectChar(char) {
             self.selectedChar = char;
+        }
+
+        function close() {
+            self.selectedChar = undefined;
         }
 
         // sample data from swapi.co
