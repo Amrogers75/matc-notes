@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7e83605-18bc-474d-a108-a3323ca1b1fa" name="Default" comment="" />
+    <list default="true" id="c7e83605-18bc-474d-a108-a3323ca1b1fa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.01-$http-live-data.mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/services/character.factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/services/character.factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-END/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-END/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-END/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-END/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/integer.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/integer.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/username.directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/directives/integer.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/directives/username.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/my-form/my-form.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/directives/integer.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/directives/overwrite-email.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/directives/username.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/my-form/my-form.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/my-form/my-form.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="temp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,72 +124,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="228">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/app.js">
+      <file leaf-file-name="my-form.component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-98">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="character.service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/services/character.service.js">
+      <file leaf-file-name="my-form.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="500">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="char-list.component.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http-FINAL/characters/char-list.component.js">
+      <file leaf-file-name="username.directives.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/username.directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="characters.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="char-list.component.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters/char-list.component.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="character.service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http-FINAL/services/character.service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="420">
+              <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,9 +174,9 @@
         <option value="package_json" />
         <option value="CSS File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -111,31 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/qunit-1.23.1.css" />
-        <option value="$PROJECT_DIR$/notes5.js" />
-        <option value="$PROJECT_DIR$/notes6.html" />
-        <option value="$PROJECT_DIR$/notes6.js" />
-        <option value="$PROJECT_DIR$/src/data-structers.html" />
-        <option value="$PROJECT_DIR$/src/js/stack-test.js" />
-        <option value="$PROJECT_DIR$/jasmine/jasmine-standalone-2.4.1/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/src/js/stack.js" />
-        <option value="$PROJECT_DIR$/test/js/stack-test.js" />
-        <option value="$PROJECT_DIR$/queues/queue.js" />
-        <option value="$PROJECT_DIR$/queues/queue.html" />
-        <option value="$PROJECT_DIR$/linked list/linked-list-test.js" />
-        <option value="$PROJECT_DIR$/linked list/jasmine/jasmine-standalone-2.4.1/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/linked list/linked-list.js" />
-        <option value="$PROJECT_DIR$/linked list/linkend-list-test2.js" />
-        <option value="$PROJECT_DIR$/linked list/linked-list2.html" />
-        <option value="$PROJECT_DIR$/linked list/linked-list2.js" />
-        <option value="$PROJECT_DIR$/dictionary-datastuff/dictionary.html" />
-        <option value="$PROJECT_DIR$/dictionary-datastuff/dictionary.js" />
-        <option value="$PROJECT_DIR$/proj/src/greet.ts" />
-        <option value="$PROJECT_DIR$/proj/tsconfig.json" />
-        <option value="$PROJECT_DIR$/proj/src/index.html" />
-        <option value="$PROJECT_DIR$/proj/gulpfile.js" />
-        <option value="$PROJECT_DIR$/proj/src/main.ts" />
         <option value="$PROJECT_DIR$/AngularJs-Notes/helloAngular.html" />
         <option value="$PROJECT_DIR$/AngularJs-Notes/angularJs2.html" />
         <option value="$PROJECT_DIR$/TeachingMaterials-master/AngularJS/CoreDirectives/lab/core-directives-lab.html" />
@@ -162,6 +212,31 @@
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters.json" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/services/character.service.js" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters/char-list.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/15.03-$httpProvider.interceptors.mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-list.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/services/character.service.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-detail.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.service.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/index.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-list.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-detail.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.factory.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/index.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.service.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.service.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/integer.directive.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/index.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/username.directives.js" />
       </list>
     </option>
   </component>
@@ -188,7 +263,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -234,19 +309,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-1.5-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20.02-CustomValidation-mine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-1.5-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20.02-CustomValidation-mine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matc-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-1.5-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20.02-CustomValidation-mine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Development2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -254,14 +391,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine" />
       <recent name="$PROJECT_DIR$/Angular-1.5-master" />
       <recent name="$PROJECT_DIR$/linked list/jasmine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives" />
+      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine" />
       <recent name="$PROJECT_DIR$/class-notes" />
       <recent name="$PROJECT_DIR$/maps-calander" />
       <recent name="$PROJECT_DIR$/game-exsample" />
-      <recent name="$PROJECT_DIR$/test/js" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.calander.js (1)">
@@ -378,7 +517,7 @@
       <workItem from="1468252519001" duration="1672000" />
       <workItem from="1468331413053" duration="34214000" />
       <workItem from="1469108649357" duration="6047000" />
-      <workItem from="1469540494447" duration="6515000" />
+      <workItem from="1469540494447" duration="33463000" />
     </task>
     <task id="LOCAL-00001" summary="added js opjects">
       <created>1461689217644</created>
@@ -405,7 +544,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262977000" />
+    <option name="totallyTimeSpent" value="289925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,9 +557,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18745036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20969023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -428,7 +567,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46448088" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -439,7 +578,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -448,13 +587,13 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46575344" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18745036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46448088" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27084988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -477,233 +616,60 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/app.js</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.01-TransclusionInComponentExample/index.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-list.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-493">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/package.json">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-detail.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/index.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/services/character.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="478">
+          <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/bower.json">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/resources/movies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/characters/char-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/about/about.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/about/about.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/characters/char-detail.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="450">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/characters/char-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/08.01-MoreComponents/characters/char-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/services/jp.json" />
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/characters/char-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/services/character.service.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/16.02-$resource.mine/characters/char-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="5" />
+        <state relative-caret-position="486">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/characters/char-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/index.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -711,39 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/characters/char-detail.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/12.01-Services/characters/char-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/services/jp.json">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -751,47 +685,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-detail.component.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-detail.component.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/services/character.service.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/characters/char-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-list.component.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-list.component.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/services/character.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="122" selection-start-line="14" selection-start-column="122" selection-end-line="14" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -799,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/app.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -807,51 +773,269 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http-FINAL/services/character.service.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/services/character.service.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="99" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-END/my-form/my-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/integer.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http-FINAL/characters/char-list.component.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters/char-list.component.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/index.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="21" column="99" selection-start-line="21" selection-start-column="99" selection-end-line="21" selection-end-column="99" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/integer.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/username.directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
