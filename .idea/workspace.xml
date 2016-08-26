@@ -2,30 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e83605-18bc-474d-a108-a3323ca1b1fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/js/homeController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/js/homeDirectives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/js/homeService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/js/navController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/templates/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/templates/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/22.01-ngAnimate-ngCookies.mine/templates/tdItem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/about/about.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/about/about.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-detail.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-detail.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-list.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-list.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/services/character.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/services/jp.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/about/about.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-list.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/character.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/jp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/sidenav/sidenav.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/sidenav/sidenav.template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="temp.iws" />
@@ -37,7 +31,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -46,60 +39,7 @@
     <favorites_list name="temp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidenav.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="char-list.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-list.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidenav.component.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,15 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Angular-1.5-master/09.02-TransclusionInComponentExercise/index.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/12.01-Services/services/character.service.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-list.component.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/characters/char-list.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/15.01-Promises.mine/services/character.service.js" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters.json" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/services/character.service.js" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/15.02-$http.mine/characters/char-list.component.js" />
@@ -170,6 +101,15 @@
         <option value="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.html" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/characters/char-list.component.html" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/index.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/characters/char-detail.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/app.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/character.service.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/index.html" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.js" />
+        <option value="$PROJECT_DIR$/Angular-1.5-master/30.01-FirebaseRules/index.html" />
       </list>
     </option>
   </component>
@@ -178,6 +118,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/proj/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
@@ -209,7 +152,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -244,6 +186,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,24 +197,25 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="typescript-compiler-editor-notification" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Angular-1.5-master" />
-      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine" />
-      <recent name="$PROJECT_DIR$/linked list/jasmine" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives" />
       <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine" />
       <recent name="$PROJECT_DIR$/class-notes" />
       <recent name="$PROJECT_DIR$/maps-calander" />
       <recent name="$PROJECT_DIR$/game-exsample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Angular-1.5-master" />
+      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine" />
+      <recent name="$PROJECT_DIR$/linked list/jasmine" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.calander.js (1)">
@@ -388,7 +332,15 @@
       <workItem from="1468252519001" duration="1672000" />
       <workItem from="1468331413053" duration="34214000" />
       <workItem from="1469108649357" duration="6047000" />
-      <workItem from="1469540494447" duration="50470000" />
+      <workItem from="1469540494447" duration="50935000" />
+      <workItem from="1470583450143" duration="921000" />
+      <workItem from="1470769408458" duration="98000" />
+      <workItem from="1470769569192" duration="113000" />
+      <workItem from="1471959495471" duration="4927000" />
+      <workItem from="1472046487855" duration="962000" />
+      <workItem from="1451606674018" duration="149000" />
+      <workItem from="1472132672195" duration="25000" />
+      <workItem from="1472132725696" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="added js opjects">
       <created>1461689217644</created>
@@ -415,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306932000" />
+    <option name="totallyTimeSpent" value="316761000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,23 +382,23 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18506752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46438357" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46438357" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -491,13 +443,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Angular-1.5-master/17.01-Restangular-BEGIN.mine/app.js</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Angular-1.5-master/ngAnimate-demo-master/js/homeDirectives.js</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
@@ -506,203 +456,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-END/my-form/my-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.03-CustomValidation-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.04-CustomValidation-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/integer.directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="99" selection-start-line="21" selection-start-column="99" selection-end-line="21" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/integer.directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="27" column="92" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,9 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -760,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="101" selection-start-line="23" selection-start-column="101" selection-end-line="23" selection-end-column="101" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,17 +608,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.js">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -890,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +629,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/sidenav/sidenav.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -906,14 +643,181 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-BEGIN/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/characters/char-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/characters/char-detail.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/jp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-END/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-detail.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/character.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/services/character.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/23.00-AngularMaterial.mine/index.html">
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/characters/char-detail.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/30.01-FirebaseRules/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/30.01-FirebaseRules/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/characters/char-detail.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/characters/char-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
