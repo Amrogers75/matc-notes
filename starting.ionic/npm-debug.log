@@ -1,0 +1,79 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'ios-sim' ]
+2 info using npm@3.10.6
+3 info using node@v4.4.5
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData ios-sim
+8 silly fetchNamedPackageData ios-sim
+9 silly mapToRegistry name ios-sim
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry data Result {
+12 silly mapToRegistry   raw: 'ios-sim',
+12 silly mapToRegistry   scope: null,
+12 silly mapToRegistry   escapedName: 'ios-sim',
+12 silly mapToRegistry   name: 'ios-sim',
+12 silly mapToRegistry   rawSpec: '',
+12 silly mapToRegistry   spec: 'latest',
+12 silly mapToRegistry   type: 'tag' }
+13 silly mapToRegistry uri https://registry.npmjs.org/ios-sim
+14 verbose request uri https://registry.npmjs.org/ios-sim
+15 verbose request no auth needed
+16 info attempt registry request try #1 at 7:59:38 AM
+17 verbose request using bearer token for auth
+18 verbose request id a19954c719941697
+19 http request GET https://registry.npmjs.org/ios-sim
+20 info retry will retry, error on last attempt: Error: connect ECONNREFUSED 151.101.68.162:443
+21 info attempt registry request try #2 at 7:59:48 AM
+22 verbose request using bearer token for auth
+23 http request GET https://registry.npmjs.org/ios-sim
+24 info retry will retry, error on last attempt: Error: connect ECONNREFUSED 151.101.68.162:443
+25 info attempt registry request try #3 at 8:00:48 AM
+26 verbose request using bearer token for auth
+27 http request GET https://registry.npmjs.org/ios-sim
+28 silly fetchPackageMetaData Error: connect ECONNREFUSED 151.101.68.162:443
+28 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:870:11)
+28 silly fetchPackageMetaData     at exports._exceptionWithHostPort (util.js:893:20)
+28 silly fetchPackageMetaData     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+28 silly fetchPackageMetaData  error for ios-sim { [Error: connect ECONNREFUSED 151.101.68.162:443]
+28 silly fetchPackageMetaData   code: 'ECONNREFUSED',
+28 silly fetchPackageMetaData   errno: 'ECONNREFUSED',
+28 silly fetchPackageMetaData   syscall: 'connect',
+28 silly fetchPackageMetaData   address: '151.101.68.162',
+28 silly fetchPackageMetaData   port: 443 }
+29 silly rollbackFailedOptional Starting
+30 silly rollbackFailedOptional Finishing
+31 silly runTopLevelLifecycles Starting
+32 silly runTopLevelLifecycles Finishing
+33 silly install printInstalled
+34 verbose stack Error: connect ECONNREFUSED 151.101.68.162:443
+34 verbose stack     at Object.exports._errnoException (util.js:870:11)
+34 verbose stack     at exports._exceptionWithHostPort (util.js:893:20)
+34 verbose stack     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+35 verbose cwd /Users/anthonyrogers/Desktop/Matc Coding/matc-notes/starting.ionic
+36 error Darwin 15.6.0
+37 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "ios-sim"
+38 error node v4.4.5
+39 error npm  v3.10.6
+40 error code ECONNREFUSED
+41 error errno ECONNREFUSED
+42 error syscall connect
+43 error Error: connect ECONNREFUSED 151.101.68.162:443
+43 error     at Object.exports._errnoException (util.js:870:11)
+43 error     at exports._exceptionWithHostPort (util.js:893:20)
+43 error     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+43 error  { [Error: connect ECONNREFUSED 151.101.68.162:443]
+43 error   code: 'ECONNREFUSED',
+43 error   errno: 'ECONNREFUSED',
+43 error   syscall: 'connect',
+43 error   address: '151.101.68.162',
+43 error   port: 443 }
+44 error If you are behind a proxy, please make sure that the
+44 error 'proxy' config is set properly.  See: 'npm help config'
+45 verbose exit [ 1, true ]
