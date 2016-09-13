@@ -2,8 +2,157 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e83605-18bc-474d-a108-a3323ca1b1fa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/2BuckSocks.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/CSS/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.yo-rc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/images/flat-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/base.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/main.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/pages/dashboard.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/pages/login.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/all.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/avatar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/pages.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/widgets/input-underline.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard/reports.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/main-content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/images/flat-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/oldieshim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/vendor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard/reports.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/main-content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/examples/preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/test/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/test/spec/controllers/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/checkOut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/signInOut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/storeBrowse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/checkOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/homePage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/signInOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/storeBrowse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/services/appService.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/temp.iml" afterPath="$PROJECT_DIR$/.idea/temp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="temp.iws" />
@@ -24,11 +173,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="homePage.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html">
+      <file leaf-file-name="sign-in-out.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign-in-out.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/sign-in-out.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store-browse.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/store-browse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -43,8 +232,8 @@
         <option value="CSS File" />
         <option value="tsconfig.json" />
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,17 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Angular-1.5-master/17.02-Restangular-BEGIN.mine/characters/char-detail.component.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/index.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/app.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/18.01-SessionStorage-mine/services/character.service.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/18.02-LocalStorage-mine/services/character.service.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/19.01-FormValidation/my-form/my-form.component.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/19.02-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/integer.directive.js" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/19.03-FormValidation-BEGIN.mine/my-form/my-form.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.html" />
-        <option value="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine/my-form/my-form.component.js" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/index.html" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives/username.directives.js" />
         <option value="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/my-form/my-form.component.html" />
@@ -100,11 +278,22 @@
         <option value="$PROJECT_DIR$/starting.ionic/myApp/www/js/services.js" />
         <option value="$PROJECT_DIR$/starting.ionic/myApp/www/css/style.css" />
         <option value="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/index.html" />
-        <option value="$PROJECT_DIR$/2BuckSocksAnthony/CSS/index.css" />
         <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/dashboard.js" />
         <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html" />
         <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/homePage.js" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/CSS/index.css" />
         <option value="$PROJECT_DIR$/2BuckSocksAnthony/index.html" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/app.js" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/store-browse.js" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/home-page.js" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/cart.html" />
+        <option value="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/store-browse.html" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/index.html" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/home-page.js" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/index.html" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js" />
+        <option value="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/sign-in-out.html" />
       </list>
     </option>
   </component>
@@ -115,10 +304,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/Angular-1.5-master/09.03-TransclusionInComponentLab/node_modules" />
     <handled-path value="$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-mine/server/node_modules" />
     <handled-path value="$PROJECT_DIR$/Angular-2.0-master/35.01-Angular2Intro-mine/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/proj/node_modules" />
     <handled-path value="$PROJECT_DIR$/starting.ionic/myApp/node_modules" />
     <handled-path value="$PROJECT_DIR$/starting.ionic/myApp/platforms/android/cordova/node_modules" />
@@ -174,7 +364,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2BuckSocksAnthony">
+            <PATH_ELEMENT USER_OBJECT="2BuckSocks-branchPatrick">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -188,7 +378,25 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2BuckSocksAnthony">
+            <PATH_ELEMENT USER_OBJECT="2BuckSocks-branchPatrick">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="matc-notes">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="2BuckSocks-branchPatrick">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -210,7 +418,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2BuckSocksAnthony">
+            <PATH_ELEMENT USER_OBJECT="2BuckSocks-branchPatrick">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -248,18 +456,18 @@
     <property name="editor.config.accepted" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/starting.ionic/myApp/www/img" />
-      <recent name="$PROJECT_DIR$/starting.ionic/myApp/www/css" />
-      <recent name="$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-mine/server" />
-      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine/directives" />
-      <recent name="$PROJECT_DIR$/Angular-1.5-master/20.02-CustomValidation-mine" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Angular-2.0-master" />
       <recent name="$PROJECT_DIR$/Angular-1.5-master" />
       <recent name="$PROJECT_DIR$/Angular-1.5-master/20.01-CustomValidation-mine" />
       <recent name="$PROJECT_DIR$/linked list/jasmine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML" />
+      <recent name="$PROJECT_DIR$/2BuckSocksAnthony/components/JS" />
+      <recent name="$PROJECT_DIR$/2BuckSocksAnthony/services" />
+      <recent name="$PROJECT_DIR$/starting.ionic/myApp/www/img" />
+      <recent name="$PROJECT_DIR$/starting.ionic/myApp/www/css" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.calander.js (1)">
@@ -390,7 +598,7 @@
       <workItem from="1472483551172" duration="12901000" />
       <workItem from="1473344580676" duration="315000" />
       <workItem from="1473345297792" duration="555000" />
-      <workItem from="1473688542473" duration="3388000" />
+      <workItem from="1473688542473" duration="12673000" />
     </task>
     <task id="LOCAL-00001" summary="added js opjects">
       <created>1461689217644</created>
@@ -417,7 +625,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338208000" />
+    <option name="totallyTimeSpent" value="347493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,39 +644,20 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46164384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46448088" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20969023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -506,274 +695,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/characters/char-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/services/character.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.01-AngularFire-$firebaseObject-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/28.02-AngularFire-$firebaseArray-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/services/character.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/29.01-AngularFire-$firebaseAuth/characters/char-detail.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/30.01-FirebaseRules/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/30.01-FirebaseRules/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/characters/char-detail.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.01-AngularFire-emailAuth/characters/char-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.02-ngDialog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.02-ngDialog/characters/char-detail.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/31.02-ngDialog/characters/char-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.01-Angular-HTML5Mode-END/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.01-Angular-HTML5Mode-mine/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.01-Angular-HTML5Mode-END/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-END/server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-END/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.01-Angular-HTML5Mode-mine/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="7" selection-start-column="6" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-mine/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-1.5-master/32.02-Angular-HTML5Mode-mine/server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-2.0-master/35.01-Angular2Intro-mine/app/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-2.0-master/35.01-Angular2Intro-mine/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-2.0-master/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-2.0-master/35.01-Angular2Intro-mine/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-2.0-master/35.01-Angular2Intro-mine/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/starting.ionic/myApp/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/starting.ionic/myApp/www/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/starting.ionic/myApp/www/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/starting.ionic/myApp/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/starting.ionic/myApp/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/examples/preview.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/signInOut.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -822,16 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/services/appService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -840,7 +751,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/2BuckSocks-branchPatrick/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/2BuckSocks-branchPatrick/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/2BuckSocks-branchPatrick/services/appService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/2BuckSocks-branchPatrick/CSS/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/CSS/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/homePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/check-out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/home-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/sign-in-out.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -851,31 +834,271 @@
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/services/appService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/store-browse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/sign-in-out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/home-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/check-out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/store-browse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="239" column="9" selection-start-line="239" selection-start-column="9" selection-end-line="239" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/homePage.js">
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/bower_components/angular/angular-csp.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html">
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.jscsrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/.yo-rc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/bower_components/angular/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/scripts/controllers/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/dashboard/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/dashboard/reports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/scripts/controllers/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/views/main-content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/home-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/store-browse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/sign-in-out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding />
         </state>
       </provider>
