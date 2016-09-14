@@ -2,158 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e83605-18bc-474d-a108-a3323ca1b1fa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/2BuckSocks.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/CSS/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/.yo-rc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/images/flat-avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/dashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/base.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/pages/dashboard.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/pages/login.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/avatar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/transitions/pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/widgets/input-underline.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/dashboard/reports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/views/main-content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/images/flat-avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/oldieshim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/scripts/vendor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/dashboard/reports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/dist/views/main-content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/examples/preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/test/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/test/spec/controllers/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/checkOut.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/homePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/signInOut.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/HTML/storeBrowse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/checkOut.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/homePage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/signInOut.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/components/JS/storeBrowse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2BuckSocksAnthony/services/appService.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js" afterPath="$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js" />
     </list>
     <ignored path="temp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,8 +26,18 @@
       <file leaf-file-name="sign-in-out.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/home-page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -186,18 +46,8 @@
       <file leaf-file-name="sign-in-out.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/sign-in-out.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="391">
               <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="store-browse.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/store-browse.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -216,8 +66,8 @@
       <file leaf-file-name="home-page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -440,7 +290,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Development2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2BuckSocks-branchPatrick" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -598,7 +448,7 @@
       <workItem from="1472483551172" duration="12901000" />
       <workItem from="1473344580676" duration="315000" />
       <workItem from="1473345297792" duration="555000" />
-      <workItem from="1473688542473" duration="12673000" />
+      <workItem from="1473688542473" duration="14259000" />
     </task>
     <task id="LOCAL-00001" summary="added js opjects">
       <created>1461689217644</created>
@@ -625,7 +475,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347493000" />
+    <option name="totallyTimeSpent" value="349079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,9 +488,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20571883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20571883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="529" y="16" width="221" height="732" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -695,22 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/scripts/controllers/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/ani-theme-master/app/styles/pages/login.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocksAnthony/components/JS/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1047,14 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/home-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/ani-theme-master/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1063,10 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html">
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1087,17 +913,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/img/sock deer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/sign-in-out.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/JS/home-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/home-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2BuckSocks-branchPatrick/components/HTML/sign-in-out.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="391">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding />
         </state>

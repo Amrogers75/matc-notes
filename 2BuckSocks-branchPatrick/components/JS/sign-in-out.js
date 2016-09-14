@@ -1,17 +1,19 @@
 (function () {
     angular.module('myApp')
-        .component('homePage', {
-            templateUrl: 'components/HTML/sing-in-out.html',
+        .component('loginPage', {
+            templateUrl: 'components/HTML/sign-in-out.html',
             controller: signInOut
         });
 
 
     function signInOut() {
-        $scope.submit = function() {
 
-            $location.path('/dashboard');
+        this.submit = function() {
 
-            return false;
+            // $location.path('/dashboard');
+
+        };
+        // return false;
     }
 })();
 

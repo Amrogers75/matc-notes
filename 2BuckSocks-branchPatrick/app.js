@@ -20,6 +20,10 @@
                 url: '/store',
                 template: "<store-browse></store-browse>"
             })
+            .state('login', {
+                url: '/login',
+                template: "<login-page></login-page>"
+            })
 
     });
         
