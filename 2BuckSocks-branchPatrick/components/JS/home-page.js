@@ -6,7 +6,7 @@
         });
 
 
-    function homeController($state) {
+    function homeController() {
         console.log('Hi There');
     }
 })();

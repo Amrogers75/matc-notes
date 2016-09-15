@@ -21,7 +21,6 @@
         vm.email = undefined;
         vm.password = undefined;
         vm.displayName = User.getDisplayName();
-
         vm.character = Character.getSelected();
 
         vm.close = close;
