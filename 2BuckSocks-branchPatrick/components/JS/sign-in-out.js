@@ -17,7 +17,7 @@
         // return false;
    // }
 //})();
-    function signInOut(User){
+    function signInOut(User, $timeout, $state){
         var vm = this;
         vm.showLogin = false;
         vm.email = undefined;
@@ -37,17 +37,27 @@
         function loginWithEmail() {
             User.loginWithEmail(vm.email, vm.password)
                 .then(function () {
-                    vm.displayName = User.getDisplayName();
-                    vm.showLogin = false;
-                    vm.password = undefined;
+                    $timeout(function () {
+                        vm.displayName = User.getDisplayName();
+                        vm.showLogin = false;
+                        vm.password = undefined;
+                        $state.go('store')
+                    });
+
                 });
         }
 
         function login(provider) {
             User.login(provider)
                 .then(function () {
-                    vm.displayName = User.getDisplayName();
-                    vm.showLogin = false;
+                    $timeout(function () {
+                        vm.displayName = User.getDisplayName();
+                        vm.showLogin = false;
+                        $state.go('store')
+                    });
+
+                }, function (data) {
+                    console.error (data)
                 });
         }
 
