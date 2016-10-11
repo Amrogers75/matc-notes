@@ -1,0 +1,54 @@
+body {
+  border: 6px solid #FF00CC;
+}
+#container a {
+  color: 6px solid #FF00CC;
+}
+#container span {
+  font-size: 30px;
+  color: firebrick;
+}
+#container .Water {
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  font-size: 42px;
+  navbutton_background_color: #123456;
+}
+.fish {
+  color: cornflowerblue;
+  margin: 25px auto;
+  border: solid;
+  width: 93%;
+  height: 305px;
+  box-shadow: 15px 8px 5px #00FF00;
+  border-radius: 180px;
+  text-align: center;
+}
+.fish span {
+  font-size: 40px;
+}
+.bottompart {
+  width: 95%;
+  margin: 45px auto;
+}
+.bottompart .fullwidth {
+  text-align: center;
+  background-color: aquamarine;
+  width: 100%;
+  margin-bottom: 18px;
+  height: 180px;
+  box-shadow: 15px 8px 5px #00FF00;
+  font-size: 40px;
+}
+.bottompart .carousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bottompart .carousel .smalldiv {
+  text-align: center;
+  width: 65px;
+  color: #003300;
+  background-color: chartreuse;
+  border-radius: 180px;
+}

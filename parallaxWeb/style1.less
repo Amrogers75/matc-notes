@@ -1,0 +1,174 @@
+@basefont: 18px;
+@buttoncolor: #123456;
+@baseborder: 2px solid;
+@sandy: #996666;
+
+  body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: auto;
+  }
+
+  html{
+    height: 100%;
+  }
+
+  .centerPage{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+
+
+  .overlay{
+    padding-top: 10%;
+    position: absolute;
+    width: 100%;
+
+  }
+
+  .blackbox{
+    background-color: rbga(0,0,0,0,.25);
+    margin: 0 auto;
+    width: 360px;
+    padding: 20px;
+    text-align: center;
+    color: #007aff;
+    border: 3px solid;
+
+  }
+
+  .link{
+    width: 25%;
+    background-color: rbga(0,0,0,0,.25);
+    border: 3px solid #FFF;
+    color: #FFF;
+    padding: 11px;
+    margin: 25px auto;
+    text-align: center;
+    .overlaylink{
+      color: #FFF;
+
+    }
+
+  }
+
+  .header{
+    height: 55px;
+    width: 100%;
+    background-color: darkred;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+
+    .navcenter{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 0 auto;
+
+      .logo {
+        height: 50px;
+        width: 90px;
+      }
+        .navigation{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          width: 60%;
+          a{
+            text-align: center;
+            width: 50%;
+            height: 100%;
+            border: solid;
+            color: #0a9dc7;
+          }
+        }
+    }
+  }
+
+  .content{
+    height: 500px;
+    background-color: #00b3ee;
+    font-size: 20px;
+    padding-top: 60px;
+
+    .leftSide{
+      width: 47%;
+      font-size: 14px;
+
+        .headline{
+          width: 65px;
+          margin: 5px auto;
+        }
+          .linkBox{
+            width: 100%;
+            margin-top: 30px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+
+            .blackBtn{
+              text-decoration: none;
+              border: 2px solid;
+              border-radius: 3px;
+              padding: 12px 35px;
+              color: #000000;
+            }
+          }
+      }
+
+      span{
+        line-height: 2.5;
+        margin-top: 40px;
+        display:block;
+    }
+  }
+
+  .paralaxone{
+    background-image: url(img/IMG_1688.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .paralaxtwo{
+    background-image: url(img/IMG_1525.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .paralaxthree{
+    background-image: url(img/IMG_1095.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .paralaxfour{
+    background-image: url(img/san3.jpeg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .paralaxfive{
+    background-image: url(img/IMG_0591.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+

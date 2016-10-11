@@ -1,0 +1,77 @@
+@basefontsize: 40px;
+@buttoncolor: #123456;
+@baseborder: 6px solid #FF00CC;
+@shadowing: 15px 8px 5px #00FF00;
+@boxraidus: 180px;
+@buttonsize: 42px;
+
+
+  .rounded-corners(@size){
+    border-radius: @size;
+    -webkit-border-radius: @size;
+  }
+
+
+ body{
+  border: @baseborder;
+}
+
+#container{
+  a {
+    color: @baseborder;
+  }
+  span{
+    font-size: 30px;
+    color: firebrick;
+  }
+  .Water{
+    .rounded-corners(8px);
+    font-size: 42px;
+    navbutton_background_color: @buttoncolor;
+
+  }
+}
+
+.fish{
+  color: cornflowerblue;
+  margin: 25px auto;
+  border: solid;
+  width: 93%;
+  height: 305px;
+  box-shadow: @shadowing;
+  border-radius: @boxraidus;
+  text-align: center;
+
+  span{
+    font-size: @basefontsize;
+  }
+}
+
+.bottompart{
+  width: 95%;
+  margin: 45px auto;
+
+  .fullwidth{
+    text-align: center;
+    background-color: aquamarine;
+    width: 100%;
+    margin-bottom: 18px;
+    height: 180px;
+    box-shadow: @shadowing;
+    font-size: @basefontsize;
+
+  }
+  .carousel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .smalldiv{
+      text-align: center;
+      width: 65px;
+      color: #003300;
+      background-color: chartreuse;
+      border-radius: @boxraidus;
+    }
+  }
+}
