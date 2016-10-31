@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    form(id='myform', method='post', action='/users/create')
+        lable(form='name') Name
+        input(type='text', id='name', name='name')
+        lable(form='email') Email
+        input(type='email', id='email', name='email')
+        input(type='submit', value='Add User')

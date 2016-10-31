@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    a(href='/users/create') Create
+    ul
+        each user in users
+            li Name: #{user.name}, Email: #{user.email}
+                form(id='myForm', method='post', action='/users/delete/#{user.name}')
+                    input(type='submit', value='Delete User')
