@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="todoApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Angluar TO-DO App</title>
+    <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+    <script src="javascripts/angular-1.5.8.min.js"></script>
+    <script src="javascripts/frontend-app.js"></script>
+</head>
+<body>
+<div class="container" ng-controller="todoController">
+    <div class="jumbotron">
+        <button class="btn btn-info" type="button"><span class="badge">{{getTotalTodos()}}</span> things to do </button>
+    <ul>
+        <li ng-repeat="todo in todos">
+            <input type="checkbox" ng-model="todo.done"/>
+            <span class="done-{{todo.done}}">{{todo.text}}</span>
+        </li>
+    </ul>
+    <form>
+        <input class="add-input" placeholder="I need to..." type="text" ng-model="formTodoText" ng-model-instant />
+        <button class="btn btn-primary" ng-click="addTodo()">Add</button>
+    </form>
+
+    <button class="btn btn-warning" ng-click="clearCompleted()">Clear completed</button>
+    </div>
+</div>
+
+    <script src="javascripts/jquery-3.1.1.min.js"></script>
+    <script src="javascripts/bootstrap.min.js"></script>
+</body>
+</html>
