@@ -5,6 +5,11 @@
     <file url="file://$PROJECT_DIR$/day12Jade" libraries="{backEndDemo/day12Jade/node_modules}" />
     <file url="file://$PROJECT_DIR$/day5CodeGenerator" libraries="{backEndDemo/day5CodeGenerator/node_modules}" />
     <file url="file://$PROJECT_DIR$/day9expressjs" libraries="{backEndDemo/day9expressjs/node_modules}" />
+    <file url="file://$PROJECT_DIR$/node-todo-app" libraries="{backEndDemo/node-todo-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/passport1" libraries="{backEndDemo/passport1/node_modules}" />
+    <file url="file://$PROJECT_DIR$/passport1/testExpress" libraries="{backEndDemo/passport1/testExpress/node_modules}" />
+    <file url="file://$PROJECT_DIR$/passport1/working-passport-app" libraries="{backEndDemo/passport1/working-passport-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/todoapp" libraries="{backEndDemo/todoapp/node_modules}" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
